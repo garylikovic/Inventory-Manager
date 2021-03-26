@@ -1,0 +1,4 @@
+#TYPE Selected.System.Windows.Forms.DataGridViewRow
+"Title Name","Condition","Price","Rating","Region","Genre","Format","Quantity","UPC","Sold","Sold-Date"
+"How The Grinch Stole Christmas","NEW","15","PG","US","Holiday / Comedy","BluRay + DVD","2","","",""
+"Christmas With The Kranks","USED","2","PG","US","Holiday / Comedy","DVD","5","","",""
